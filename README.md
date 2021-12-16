@@ -1,8 +1,8 @@
 ## 大家好！
 这里是Aye10032   
 啥都写，啥都不会，新时代废物了属于是。   
-[![Aye10032's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aye10032&theme=buefy&count_private=true&show_icons=true)](https://github.com/Aye10032)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aye10032&hide=javascript)](https://github.com/Aye10032)
+[![Aye10032's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aye10032&theme=buefy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aye10032&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 关于我
