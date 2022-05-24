@@ -1,7 +1,8 @@
 # 大家好！
+[![](https://komarev.com/ghpvc/?username=Aye10032&label=Profile%20views&color=0e75b6&style=flat)]()   
 这里是Aye10032   
 啥都写，啥都不会，新时代废物了属于是。   
-[![](https://komarev.com/ghpvc/?username=Aye10032&label=Profile%20views&color=0e75b6&style=flat)]()   
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aye10032)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Aye10032's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aye10032&theme=buefy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
