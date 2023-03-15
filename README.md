@@ -3,7 +3,7 @@
 这里是Aye10032   
 啥都写，啥都不会，新时代废物了属于是。   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aye10032&hide=javascript,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aye10032&hide=javascript,css)](https://github.com/anuraghazra/github-readme-stats)   
 [![Aye10032's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aye10032&theme=buefy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aye10032)](https://git.io/streak-stats)    
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aye10032&column=4)](https://github.com/ryo-ma/github-profile-trophy)
