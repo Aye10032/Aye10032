@@ -6,7 +6,6 @@
 [![Aye10032's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aye10032&theme=buefy&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aye10032&hide=javascript,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aye10032)](https://git.io/streak-stats)    
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aye10032&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aye10032&hide=javascript,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 
 
 ### 关于我
