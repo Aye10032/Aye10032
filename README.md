@@ -12,6 +12,6 @@
 ### 关于我
 [https://www.aye10032.com](https://www.aye10032.com)    
 [https://space.bilibili.com/40077740](https://space.bilibili.com/40077740)    
-<tc_aye@outlook.com>
+<yeyu@qibebt.ac.cn>
 
 
